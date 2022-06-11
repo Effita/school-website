@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\tribute"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myweb"
+	}
+}
